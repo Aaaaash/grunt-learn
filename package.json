@@ -1,0 +1,16 @@
+{
+  "name": "grunt",
+  "version": "1.0.0",
+  "description": ">一套包含`框架`和`工具`，便于开发者快速构建web应用程序的工作流<br/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "grunt-cli": "^1.2.0",
+    "yo": "^1.8.4"
+  }
+}

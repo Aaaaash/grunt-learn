@@ -1,0 +1,14 @@
+{
+  "name": "2048-game",
+  "homepage": "https://github.com/SakuB/2048-game",
+  "_release": "e4f5bf1fb7",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e4f5bf1fb79057f880ebafd50469452fc953b3b2"
+  },
+  "_source": "git://github.com/SakuB/2048-game.git",
+  "_target": "*",
+  "_originalSource": "SakuB/2048-game",
+  "_direct": true
+}

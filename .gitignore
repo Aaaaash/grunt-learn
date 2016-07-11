@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/.tmp
+/.sass-cache
+/bower-demo/jquery-bootstrap-demo/bower_components/jquery
+/bower-demo/jquery-bootstrap-demo/bower_components/bootstrap
