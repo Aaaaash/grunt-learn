@@ -60,3 +60,6 @@ install 2048-game#e4f5bf1fb7<br/>
 
 bower也支持安装其他cdn上的js文件，同样也是使用完整的地址来安装<br/>
 >bower install http://push.zhanzhang.baidu.com/push.js
+
+在bower可以搜索到一些常用的包<br/>
+在bower创建的项目目录下也可以创建一个bower.json文件，用于记录项目所用包的一些相关信息，具体配置方式与package.json基本相同<br/>

@@ -1,0 +1,26 @@
+{
+  "name": "jquery-bootstrap-demo",
+  "homepage": "https://github.com/SakuB/grunt-learn",
+  "authors": [
+    "sakura-pc <841105127@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "jquery",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "2048-game": "SakuB/2048-game",
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.7"
+  }
+}
