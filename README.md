@@ -63,3 +63,11 @@ bower也支持安装其他cdn上的js文件，同样也是使用完整的地址�
 
 在bower可以搜索到一些常用的包<br/>
 在bower创建的项目目录下也可以创建一个bower.json文件，用于记录项目所用包的一些相关信息，具体配置方式与package.json基本相同<br/>
+####bower下载的组件如何使用？
+在项目目录中新建一个app目录，并在app目录下新建一个index.html文件<br/>
+引用js文件一样还是用原始的引用方式，实际上非常麻烦，所以这里要用到grunt和bower搭配使用<br/>
+
+##Grunt的使用以及与bower和yoman的结合
+单独的使用bower并不能使我们实际开发效率有太大的帮助，所以必须将这些工具结合起来<br/>
+
+###grunt与yoman
